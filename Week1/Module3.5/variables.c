@@ -13,7 +13,7 @@ int main(){
     scanf("%f",&c);
     printf("%.2f\n",c);
 
-    scanf(" ");
+    scanf(" "); //bypass new line for int input
     char d;
     scanf("%c",&d);
     printf("%c\n",d);
