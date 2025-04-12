@@ -1,10 +1,5 @@
 # Phitron Course
 
-## CodeForce
-- Divisor
-- Factorial
-- Sum of consecutive odd numbers
-
 ## Week 1
 
 ### Module 2.5
