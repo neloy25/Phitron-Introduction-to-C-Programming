@@ -17,6 +17,7 @@
 - Sum 1 to N
 - Printing All Digits in 2 ways
 - Reversing Number
+- Fibonacci series
 
 ### Module 3.5
 - Check if divisible by 5 with loop
