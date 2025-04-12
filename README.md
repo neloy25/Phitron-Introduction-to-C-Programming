@@ -31,3 +31,12 @@
 - Multiply two variables
 - Printing a Paragragh with escape sequence
 
+## Week 2
+
+### Module 5
+- Welcome to Condition
+- Multiple Check
+- Maximum and Minimum
+- Char Low to High and High to Low
+- First Digit even or odd
+
