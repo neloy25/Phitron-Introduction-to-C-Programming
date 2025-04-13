@@ -35,3 +35,11 @@
 - Char Low to High and High to Low
 - First Digit even or odd
 
+### Module 6
+- Digits
+- Even Number
+- Even, Odd, Negative, Positive
+- Fixed Password
+- Maximum Number
+- Multiplication Table
+
