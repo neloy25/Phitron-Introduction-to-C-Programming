@@ -3,6 +3,7 @@
 int main() {
     char ch;
     scanf("%c",&ch);
-    printf("%c",ch + 1);
+    if(ch == 'z') printf("%c",'a');
+    else printf("%c",ch + 1);
     return 0;
 }
