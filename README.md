@@ -50,7 +50,7 @@
 - Next Alphabet
 - Pattern Problem
 
-### Module 7 (Introduction to Array)
+### Module 7 (INTRODUCTION TO ARRAY)
 - Input and Output
 - Initialization
 - Reverse Printing
