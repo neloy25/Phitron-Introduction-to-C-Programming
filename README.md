@@ -58,3 +58,10 @@
 - Counting odd numbers in an array
 - Finding maximum value in an array
 - Finding minimum value in an array
+
+### Module 7.5 (ARRAY REALTED PROBLEM)
+- Summation
+- Searching
+- Replacement
+- Position in an array
+- Lowest Number
