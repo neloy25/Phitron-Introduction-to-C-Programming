@@ -65,3 +65,10 @@
 - Replacement
 - Position in an array
 - Lowest Number
+
+### Assignment 2 (ARRAY + LOOP)
+- Say it
+- Reverse And Odd
+- Sum Sum
+- Update and Print
+- Is it challenge
