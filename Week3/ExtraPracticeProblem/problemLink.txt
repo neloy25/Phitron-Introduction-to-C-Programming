@@ -1,0 +1,14 @@
+Module 9
+
+1. M. Replace MinMax  
+   Problem Link: http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M
+
+2. F. Reversing  
+   Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F
+
+3. G. Palindrome Array  
+   Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
+
+4. I. Smallest Pair  
+   Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I
+
