@@ -93,10 +93,10 @@ Track your journey through the Phitron course with clearly organized modules and
 
 #### Module 9
 
-1. [M. Replace MinMax](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
-2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
-3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
-4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
+1. [M. Replace MinMax][x](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
+2. [F. Reversing][x](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
+3. [G. Palindrome Array][x](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
+4. [I. Smallest Pair][x](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
 
 
 **Stay consistent and keep coding** 💻🚀
