@@ -1,6 +1,6 @@
 # Phitron Course
 
-## Week 1
+## Week 1 (VARIABLE + CONDITION + LOOP)
 
 ### Module 2.5 (VARIABLES)
 - Add
@@ -26,7 +26,7 @@
 - Multiply two variables
 - Printing a Paragragh with escape sequence
 
-## Week 2
+## Week 2 (LOOP RECAP + ARRAY)
 
 ### Module 5 (CONDITION RELATED PROBLEM)
 - Welcome to Condition
@@ -72,3 +72,11 @@
 - Sum Sum
 - Update and Print
 - Is it challenge
+
+## Week 3 (ARRAY and STRING OPERATIONS)
+
+### Module 9 (ARRAY OPERATIONS)
+- Inserting a value in specified position
+- Removing an element
+- Swapping two number using temp & arithmetic
+- Reversing an array
