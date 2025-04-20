@@ -89,9 +89,14 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] Swap Two Numbers (Using Temp Variable & Arithmetic Method)
 - [x] Reverse an Array
 
-## Problem: M. Replace MinMax
+### 🔹 Extra Practice Problem
 
-You can access the problem at [this link](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M).
+### Module 9
+
+1. [M. Replace MinMax](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
+2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
+3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
+4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
 
 
 **Stay consistent and keep coding** 💻🚀
