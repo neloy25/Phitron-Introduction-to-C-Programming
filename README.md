@@ -1,82 +1,92 @@
-# Phitron Course
+# 📘 Phitron Programming Course Progress
 
-## Week 1 (VARIABLE + CONDITION + LOOP)
+Track your journey through the Phitron course with clearly organized modules and assignments.
 
-### Module 2.5 (VARIABLES)
-- Add
-- Zero-Non Zero
-- Multiple
-- Float method
+---
 
-### Module 3 (INTRODUCTION TO LOOP)
-- Sum 1 to N
-- Printing All Digits in 2 ways
-- Reversing Number
-- Fibonacci series
+## ✅ Week 1: Variables, Conditions & Loops
 
-### Module 3.5 (LOOP + VARIABLE RELATED PROBLEM)
-- Check if divisible by 5 with loop
-- Printing N times
-- Sum of Two numbers
-- Character printing problem after integer
+### 🔹 Module 2.5: Variables
+- [x] Basic Addition
+- [x] Check for Zero or Non-Zero
+- [x] Multiples Check
+- [x] Float Method Applications
 
-### Assignment 01 (CONDITION + VARIABLE)
-- Divisible 1 & 2
-- Shopping
-- Multiply two variables
-- Printing a Paragragh with escape sequence
+### 🔹 Module 3: Introduction to Loops
+- [x] Sum from 1 to N
+- [x] Print All Digits (Two Methods)
+- [x] Reverse a Number
+- [x] Generate Fibonacci Series
 
-## Week 2 (LOOP RECAP + ARRAY)
+### 🔹 Module 3.5: Loop + Variable Practice
+- [x] Check Divisibility by 5 (Using Loop)
+- [x] Print N Times
+- [x] Add Two Numbers
+- [x] Print Characters After Integers (Pattern)
 
-### Module 5 (CONDITION RELATED PROBLEM)
-- Welcome to Condition
-- Multiple Check
-- Maximum and Minimum
-- Char Low to High and High to Low
-- First Digit even or odd
+### 📘 Assignment 01: Conditions + Variables
+- [x] Divisible by 1 and 2 Check
+- [x] Shopping Total Calculation
+- [x] Multiply Two Variables
+- [x] Print Paragraph with Escape Sequences
 
-### Module 6 (LOOP RELATED PROBLEM)
-- Digits
-- Even Number
-- Even, Odd, Negative, Positive
-- Fixed Password
-- Maximum Number
-- Multiplication Table
+---
 
-### Module 6.5 (LOOP + CONDITION PRACTICE PROBLEM)
-- Ali Baba and Puzzle
-- Divisors
-- Lucky Number
-- Next Alphabet
-- Pattern Problem
+## ✅ Week 2: Loop Recap + Array Fundamentals
 
-### Module 7 (INTRODUCTION TO ARRAY)
-- Input and Output
-- Initialization
-- Reverse Printing
-- Printing even numbers in an array
-- Counting odd numbers in an array
-- Finding maximum value in an array
-- Finding minimum value in an array
+### 🔹 Module 5: Condition-Based Problems
+- [x] Welcome to Conditions
+- [x] Multiple Number Check
+- [x] Find Maximum and Minimum
+- [x] Character Range (Low to High, High to Low)
+- [x] Check if First Digit is Even or Odd
 
-### Module 7.5 (ARRAY REALTED PROBLEM)
-- Summation
-- Searching
-- Replacement
-- Position in an array
-- Lowest Number
+### 🔹 Module 6: Loop Practice Problems
+- [x] Work with Digits
+- [x] Identify Even Numbers
+- [x] Classify Even/Odd/Positive/Negative
+- [x] Validate Fixed Password
+- [x] Determine Maximum Number
+- [x] Generate Multiplication Table
 
-### Assignment 2 (ARRAY + LOOP)
-- Say it
-- Reverse And Odd
-- Sum Sum
-- Update and Print
-- Is it challenge
+### 🔹 Module 6.5: Loop + Condition Practice
+- [x] Ali Baba and the Puzzle
+- [x] Find Divisors
+- [x] Identify Lucky Numbers
+- [x] Find the Next Alphabet
+- [x] Print Star/Number Patterns
 
-## Week 3 (ARRAY and STRING OPERATIONS)
+### 🔹 Module 7: Introduction to Arrays
+- [x] Array Input and Output
+- [x] Initialization of Arrays
+- [x] Reverse Print an Array
+- [x] Print Even Numbers from an Array
+- [x] Count Odd Numbers in an Array
+- [x] Find Maximum Value in an Array
+- [x] Find Minimum Value in an Array
 
-### Module 9 (ARRAY OPERATIONS)
-- Inserting a value in specified position
-- Removing an element
-- Swapping two number using temp & arithmetic
-- Reversing an array
+### 🔹 Module 7.5: Array Problem Solving
+- [x] Sum Elements in Array
+- [x] Search for a Value
+- [x] Replace Array Elements
+- [x] Find Position of an Element
+- [x] Find the Lowest Number
+
+### 📘 Assignment 02: Arrays + Loops
+- [x] Say It (String + Array Practice)
+- [x] Reverse and Filter Odd Numbers
+- [x] Sum of Array Elements
+- [x] Update Array and Print
+- [x] Solve 'Is It?' Challenge
+
+---
+
+## 🚧 Week 3: Array & String Operations
+
+### 🔹 Module 9: Array Operations
+- [x] Insert Value at Specific Position in Array
+- [x] Remove an Element from Array
+- [x] Swap Two Numbers (Using Temp Variable & Arithmetic Method)
+- [x] Reverse an Array
+
+**Stay consistent and keep coding** 💻🚀
