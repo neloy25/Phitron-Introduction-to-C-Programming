@@ -89,6 +89,15 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] Swap Two Numbers (Using Temp Variable & Arithmetic Method)
 - [x] Reverse an Array
 
+### 🔹 Module 10: Introduction to String
+- [x] String Input and Output  
+- [x] Null Character in String  
+- [x] String Input with Space using `fgets`  
+- [x] String Length Manually  
+- [x] String Length using `strlen`  
+- [x] [B. Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)  
+- [x] [E. Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)  
+
 ### 🔹 Extra Practice Problem
 
 #### Module 9
