@@ -20,6 +20,7 @@ Track your journey through the Phitron course with clearly organized modules and
 - [🚧 Week 3: Array & String Operations](#-week-3-array--string-operations)
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
+  - [🔹 Module 10.5: Array + String Related Problems](#-module-105-array--string-related-problems)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
 
 ---
@@ -116,19 +117,25 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] String Length Manually  
 - [x] String Length using `strlen`  
 - [x] [B. Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)  
-- [x] [E. Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)  
+- [x] [E. Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)
+
+### 🔹 Module 10.5: Array + String Related Problems
+1. [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
+2. [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
+3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
+4. [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
+5. [Palindrome String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)  
+6. [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)  
 
 ### 🔹 Extra Practice Problem
 
 #### Module 9
-
 1. [M. Replace MinMax](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
 2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
 3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
 4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
 
 #### Module 10
-
 1. [A. Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)  
 2. [A. Square or rectangle](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A)  
 3. [G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
