@@ -21,6 +21,8 @@ Track your journey through the Phitron course with clearly organized modules and
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
+    - [📘 Module 9 Extra Problems](#module-9)
+    - [📘 Module 10 Extra Problems](#module-10)
 
 ---
 
@@ -125,7 +127,14 @@ Track your journey through the Phitron course with clearly organized modules and
 1. [M. Replace MinMax](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
 2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
 3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
-4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)  
+4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
+
+#### Module 10
+
+1. [A. Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)  
+2. [A. Square or rectangle](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A)  
+3. [G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
+4. [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)
 
 ---
 
