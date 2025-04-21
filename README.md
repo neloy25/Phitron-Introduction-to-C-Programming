@@ -21,8 +21,6 @@ Track your journey through the Phitron course with clearly organized modules and
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
-    - [📘 Module 9 Extra Problems](#module-9)
-    - [📘 Module 10 Extra Problems](#module-10)
 
 ---
 
