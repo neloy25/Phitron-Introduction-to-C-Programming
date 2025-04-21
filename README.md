@@ -121,12 +121,12 @@ Track your journey through the Phitron course with clearly organized modules and
 
 ### 🔹 Module 10.5: Array + String Related Problems
 - [x] [Document](https://docs.google.com/document/d/1BZ4EmlT9VnXCIWcsbU8wAdFk0RH2xjybs7Vzfqflggk/edit?tab=t.0#heading=h.1tiup1mwqtlu)
-- [x] 1. [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
-- [x] 2. [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
-- [x] 3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
-- [x] 4. [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
-- [x] 5. [Palindrome String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)  
-- [x] 6. [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)  
+1. [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
+2. [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
+3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
+4. [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
+5. [Palindrome String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)  
+6. [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)  
 
 ### 🔹 Extra Practice Problem
 
