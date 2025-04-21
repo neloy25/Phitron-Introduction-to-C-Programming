@@ -120,6 +120,7 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] [E. Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)
 
 ### 🔹 Module 10.5: Array + String Related Problems
+- [x] [Document](https://docs.google.com/document/d/1BZ4EmlT9VnXCIWcsbU8wAdFk0RH2xjybs7Vzfqflggk/edit?tab=t.0#heading=h.1tiup1mwqtlu)
 1. [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
 2. [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
 3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
