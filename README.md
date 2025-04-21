@@ -4,6 +4,26 @@ Track your journey through the Phitron course with clearly organized modules and
 
 ---
 
+## 📑 Table of Contents
+- [✅ Week 1: Variables, Conditions & Loops](#-week-1-variables-conditions--loops)
+  - [🔹 Module 2.5: Variables](#-module-25-variables)
+  - [🔹 Module 3: Introduction to Loops](#-module-3-introduction-to-loops)
+  - [🔹 Module 3.5: Loop + Variable Practice](#-module-35-loop--variable-practice)
+  - [📘 Assignment 01: Conditions + Variables](#-assignment-01-conditions--variables)
+- [✅ Week 2: Loop Recap + Array Fundamentals](#-week-2-loop-recap--array-fundamentals)
+  - [🔹 Module 5: Condition-Based Problems](#-module-5-condition-based-problems)
+  - [🔹 Module 6: Loop Practice Problems](#-module-6-loop-practice-problems)
+  - [🔹 Module 6.5: Loop + Condition Practice](#-module-65-loop--condition-practice)
+  - [🔹 Module 7: Introduction to Arrays](#-module-7-introduction-to-arrays)
+  - [🔹 Module 7.5: Array Problem Solving](#-module-75-array-problem-solving)
+  - [📘 Assignment 02: Arrays + Loops](#-assignment-02-arrays--loops)
+- [🚧 Week 3: Array & String Operations](#-week-3-array--string-operations)
+  - [🔹 Module 9: Array Operations](#-module-9-array-operations)
+  - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
+  - [🔹 Extra Practice Problem](#-extra-practice-problem)
+
+---
+
 ## ✅ Week 1: Variables, Conditions & Loops
 
 ### 🔹 Module 2.5: Variables
@@ -103,9 +123,10 @@ Track your journey through the Phitron course with clearly organized modules and
 #### Module 9
 
 1. [M. Replace MinMax](http://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)  
-2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)
-3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)
-4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
+2. [F. Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
+3. [G. Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
+4. [I. Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)  
 
+---
 
 **Stay consistent and keep coding** 💻🚀
