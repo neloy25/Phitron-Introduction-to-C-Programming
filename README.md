@@ -21,6 +21,7 @@ Track your journey through the Phitron course with clearly organized modules and
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
   - [🔹 Module 11: String Operations (Advanced)](#-module-11-string-operations-advanced)
+  - [🔹 Module 11.5: String + Frequency Array Related Problems](#-module-115-string--frequency-array-related-problems)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
 
 ---
@@ -121,6 +122,7 @@ Track your journey through the Phitron course with clearly organized modules and
 
 ### 🔹 Module 10.5: Array + String Related Problems
 - [x] [Document](https://docs.google.com/document/d/1BZ4EmlT9VnXCIWcsbU8wAdFk0RH2xjybs7Vzfqflggk/edit?tab=t.0#heading=h.1tiup1mwqtlu)
+
 1. [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)  
 2. [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)  
 3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
@@ -135,6 +137,15 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] String Concatenation using `strcat`
 - [x] String Comparison (Manual)
 - [x] String Comparison using `strcmp`
+
+### 🔹 Module 11.5: String + Frequency Array Related Problems
+- [x] [Practice Document](https://docs.google.com/document/d/1FLggcwY4YLUkk6RpOWnePSCXBq0iZZdo4tsq6eUXz5s/edit?tab=t.0)
+
+1. [C. Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)  
+2. [V. Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)  
+3. [K. Sum Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)  
+4. [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)  
+5. [K. I Love Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
 
 ### 🔹 Extra Practice Problem
 
