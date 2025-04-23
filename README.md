@@ -20,7 +20,7 @@ Track your journey through the Phitron course with clearly organized modules and
 - [🚧 Week 3: Array & String Operations](#-week-3-array--string-operations)
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
-  - [🔹 Module 10.5: Array + String Related Problems](#-module-105-array--string-related-problems)
+  - [🔹 Module 11: String Operations (Advanced)](#-module-11-string-operations-advanced)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
 
 ---
@@ -126,7 +126,15 @@ Track your journey through the Phitron course with clearly organized modules and
 3. [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)  
 4. [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
 5. [Palindrome String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)  
-6. [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)  
+6. [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)
+
+### 🔹 Module 11: String Operations (Advanced)
+- [x] String Copy (Manual)
+- [x] String Copy using `strcpy`
+- [x] String Concatenation (Manual)
+- [x] String Concatenation using `strcat`
+- [x] String Comparison (Manual)
+- [x] String Comparison using `strcmp`
 
 ### 🔹 Extra Practice Problem
 
