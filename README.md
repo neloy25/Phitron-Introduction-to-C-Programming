@@ -17,11 +17,12 @@ Track your journey through the Phitron course with clearly organized modules and
   - [🔹 Module 7: Introduction to Arrays](#-module-7-introduction-to-arrays)
   - [🔹 Module 7.5: Array Problem Solving](#-module-75-array-problem-solving)
   - [📘 Assignment 02: Arrays + Loops](#-assignment-02-arrays--loops)
-- [🚧 Week 3: Array & String Operations](#-week-3-array--string-operations)
+- [✅ Week 3: Array & String Operations](#-week-3-array--string-operations)
   - [🔹 Module 9: Array Operations](#-module-9-array-operations)
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
   - [🔹 Module 11: String Operations (Advanced)](#-module-11-string-operations-advanced)
   - [🔹 Module 11.5: String + Frequency Array Related Problems](#-module-115-string--frequency-array-related-problems)
+  - [📘 Assignment 03: Mid Term Exam (Covers Week 1, Week 2 & Week 3)](#-assignment-03-mid-term-exam-covers-week-1-week-2--week-3)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
 
 ---
@@ -103,7 +104,7 @@ Track your journey through the Phitron course with clearly organized modules and
 
 ---
 
-## 🚧 Week 3: Array & String Operations
+## ✅ Week 3: Array & String Operations
 
 ### 🔹 Module 9: Array Operations
 - [x] Insert Value at Specific Position in Array
@@ -146,6 +147,14 @@ Track your journey through the Phitron course with clearly organized modules and
 3. [K. Sum Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)  
 4. [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)  
 5. [K. I Love Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
+
+### 📘 Assignment 03: Mid Term Exam (Covers Week 1, Week 2 & Week 3)
+- [x] Count 1 – Count numbers that are multiples of 2 & 3
+- [x] Count 2 – Count the number of consonants in a string
+- [x] Farmers – Add new farmer and reduce workday count accordingly
+- [x] Count 3 – Count lowercase, uppercase letters & digits in a string
+- [x] Count 4 – Count lowercase alphabets using a frequency array
+
 
 ### 🔹 Extra Practice Problem
 
