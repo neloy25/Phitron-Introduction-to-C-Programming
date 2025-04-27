@@ -22,8 +22,8 @@ Track your journey through the Phitron course with clearly organized modules and
   - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
   - [🔹 Module 11: String Operations (Advanced)](#-module-11-string-operations-advanced)
   - [🔹 Module 11.5: String + Frequency Array Related Problems](#-module-115-string--frequency-array-related-problems)
-  - [📘 Assignment 03: Mid Term Exam (Covers Week 1, Week 2 & Week 3)](#-assignment-03-mid-term-exam-covers-week-1-week-2--week-3)
   - [🔹 Extra Practice Problem](#-extra-practice-problem)
+  - [📘 Mid Term Exam (Covers Week 1, Week 2 & Week 3)](#-mid-term-exam-covers-week-1-week-2--week-3)
 
 ---
 
@@ -148,14 +148,6 @@ Track your journey through the Phitron course with clearly organized modules and
 4. [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)  
 5. [K. I Love Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
 
-### 📘 Assignment 03: Mid Term Exam (Covers Week 1, Week 2 & Week 3)
-- [x] Count 1 – Count numbers that are multiples of 2 & 3
-- [x] Count 2 – Count the number of consonants in a string
-- [x] Farmers – Add new farmer and reduce workday count accordingly
-- [x] Count 3 – Count lowercase, uppercase letters & digits in a string
-- [x] Count 4 – Count lowercase alphabets using a frequency array
-
-
 ### 🔹 Extra Practice Problem
 
 #### Module 9
@@ -169,6 +161,13 @@ Track your journey through the Phitron course with clearly organized modules and
 2. [A. Square or rectangle](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A)  
 3. [G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)  
 4. [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)
+
+### 📘 Mid Term Exam (Covers Week 1, Week 2 & Week 3)
+- [x] Count 1 – Count numbers that are multiples of 2 & 3
+- [x] Count 2 – Count the number of consonants in a string
+- [x] Farmers – Add new farmer and reduce workday count accordingly
+- [x] Count 3 – Count lowercase, uppercase letters & digits in a string
+- [x] Count 4 – Count lowercase alphabets using a frequency array
 
 ---
 
