@@ -174,6 +174,14 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] Function (No Return + No Parameter)  
 - [x] Useful Math Functions  
 
+### 🔹 Module 14.5: Pattern & Sorting Practice Problems
+- [x] [Practice Document](https://docs.google.com/document/d/1uzoOl9K0McJaxyy_o0p4la_sGCC8A-O8/edit?tab=t.0)
+1. [P. Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)  
+2. [T. Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)  
+3. [W. Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)  
+4. [H. Sorting ](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
+
+
 ---
 
 **Stay consistent and keep coding** 💻🚀
