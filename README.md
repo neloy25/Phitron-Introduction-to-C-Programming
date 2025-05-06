@@ -6,24 +6,9 @@ Track your journey through the Phitron course with clearly organized modules and
 
 ## 📑 Table of Contents
 - [✅ Week 1: Variables, Conditions & Loops](#-week-1-variables-conditions--loops)
-  - [🔹 Module 2.5: Variables](#-module-25-variables)
-  - [🔹 Module 3: Introduction to Loops](#-module-3-introduction-to-loops)
-  - [🔹 Module 3.5: Loop + Variable Practice](#-module-35-loop--variable-practice)
-  - [📘 Assignment 01: Conditions + Variables](#-assignment-01-conditions--variables)
 - [✅ Week 2: Loop Recap + Array Fundamentals](#-week-2-loop-recap--array-fundamentals)
-  - [🔹 Module 5: Condition-Based Problems](#-module-5-condition-based-problems)
-  - [🔹 Module 6: Loop Practice Problems](#-module-6-loop-practice-problems)
-  - [🔹 Module 6.5: Loop + Condition Practice](#-module-65-loop--condition-practice)
-  - [🔹 Module 7: Introduction to Arrays](#-module-7-introduction-to-arrays)
-  - [🔹 Module 7.5: Array Problem Solving](#-module-75-array-problem-solving)
-  - [📘 Assignment 02: Arrays + Loops](#-assignment-02-arrays--loops)
 - [✅ Week 3: Array & String Operations](#-week-3-array--string-operations)
-  - [🔹 Module 9: Array Operations](#-module-9-array-operations)
-  - [🔹 Module 10: Introduction to String](#-module-10-introduction-to-string)
-  - [🔹 Module 11: String Operations (Advanced)](#-module-11-string-operations-advanced)
-  - [🔹 Module 11.5: String + Frequency Array Related Problems](#-module-115-string--frequency-array-related-problems)
-  - [🔹 Extra Practice Problem](#-extra-practice-problem)
-  - [📝 Mid Term Exam (Covers Week 1, Week 2 & Week 3)](#-mid-term-exam-covers-week-1-week-2--week-3)
+- [✅ Week 4: Nested Loops, Patterns & Functions](#-week-4-nested-loops-patterns--functions)
 
 ---
 
@@ -168,6 +153,26 @@ Track your journey through the Phitron course with clearly organized modules and
 - [x] Farmers – Add new farmer and reduce workday count accordingly
 - [x] Count 3 – Count lowercase, uppercase letters & digits in a string
 - [x] Count 4 – Count lowercase alphabets using a frequency array
+
+---
+
+## ✅ Week 4: Nested Loops, Patterns & Functions
+
+### 🔹 Module 13: Nested Loop Recap (Pattern & Selection Sort)
+- [x] Star Pattern  
+- [x] Reverse Star Pattern  
+- [x] Pyramid Pattern  
+- [x] Diamond Pattern  
+- [x] More Patterns using Pyramid Logic  
+- [x] Sum of Two Equals X  
+- [x] Selection Sort  
+
+### 🔹 Module 14: Basics of Function
+- [x] Function (Return + Parameter)  
+- [x] Function (No Return + Parameter)  
+- [x] Function (Return + No Parameter)  
+- [x] Function (No Return + No Parameter)  
+- [x] Useful Math Functions  
 
 ---
 
