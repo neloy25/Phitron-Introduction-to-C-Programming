@@ -181,6 +181,49 @@ Track your journey through the Phitron course with clearly organized modules and
 3. [W. Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)  
 4. [H. Sorting ](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
 
+### 🔹 Module 15: Pointer
+- [x] Pointers in C  
+- [x] Dereferencing Pointer  
+- [x] Pointers in Array  
+- [x] Pass by Value  
+- [x] Pass by Reference  
+- [x] Function with Array  
+- [x] Function with String  
+- [x] Swap using Function  
+- [x] Reversing using Function  
+
+### 🔹 Module 15.5: Pointer & Function Practice Problems
+
+1. [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)  
+2. [Function Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)  
+3. [Function String](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A)  
+4. [Reverse with Function](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B)
+
+### 📘 Assignment 02: Arrays + Loops
+- [x] Count Before One
+- [x] Even and Odd
+- [x] Is Palindrome
+- [x] Pattern
+- [x] Pattern 2
+
+## ✅ Week 5: Recursion & 2D Array
+
+### 🔹 Module 17: Recursion
+- [x] Recursion  
+- [x] Call Stack  
+- [x] Printing 1 to N  
+- [x] Printing N to 1  
+- [x] Printing N to 1 Reversely  
+- [x] Printing Array using Recursion  
+
+### 🔹 Module 18: 2D Array
+- [x] Two Dimensional Array  
+- [x] Input and Output of 2D Array  
+- [x] Printing Specific Row and Column  
+- [x] Check Zero Matrix  
+- [x] Check Primary Diagonal  
+
+
 
 ---
 
